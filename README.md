@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Web3**
 
-- 👨‍💻 All of my projects are available at [https://kumarc-innovator.netlify.app](https://kumarc-innovator.netlify.app)
+- 👨‍💻 All of my projects are available at https://kumarc-innovator-portfolio.netlify.app/
 
 - 💬 Ask me about **React, JavaScript, Html, CSS, Figma**
 
