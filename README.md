@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kumar C</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Next**
+- 🌱 I’m currently learning **Block Chain**
 
-- 👯 I’m looking to collaborate on **Frontend and Full Stack**
+- 👯 I’m looking to collaborate on **AI Models and Full Stack**
 
 - 🤝 I’m looking for help with **Web3**
 
 - 👨‍💻 All of my projects are available at https://kumarc-innovator-portfolio.netlify.app/
 
-- 💬 Ask me about **React, JavaScript, Html, CSS, Figma**
+- 💬 Ask me about **React, Python, OpenAI, Lamma, Figma**
 
 - 📫 How to reach me **usnonlykumar@gmail.com**
 
