@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Web3**
 
-- 👨‍💻 All of my projects are available at https://kumarc-innovator-portfolio.netlify.app/
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fkumar-c-portfolio%2Enetlify%2Eapp%2F&urlhash=RKo7&trk=contact-info
 
 - 💬 Ask me about **React, Python, OpenAI, Lamma, Figma**
 
