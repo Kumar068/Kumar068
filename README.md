@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kumar C</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Moderator from India</h3>
 
 - 🌱 I’m currently learning **Block Chain**
 
-- 👯 I’m looking to collaborate on **AI Models and Full Stack**
+- 👯 I’m looking to collaborate on **AI Models and Data Analysis**
 
 - 🤝 I’m looking for help with **Web3**
 
